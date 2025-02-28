@@ -1,4 +1,5 @@
-# Hey there! I'm Fábio  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="40px">
+# Hey there! I'm Fábio <img src="https://media.giphy.com/media/hTgm8X92yC5hK/giphy.gif" width="40px">
+
 
 
 🎓 Software Engineering student at the University of Brasília  
