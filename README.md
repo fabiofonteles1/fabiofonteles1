@@ -1,9 +1,6 @@
 # Hey there! I'm Fábio
 <img src="https://raw.githubusercontent.com/fabiofonteles1/fabiofonteles1/main/jpg/rocket.gif" width="50">
 
-
-
-
 🎓 Software Engineering student at the University of Brasília  
 💻 Passionate about software development and embedded systems  
 🌐 Brasília, Federal District
@@ -35,5 +32,10 @@
 
 ## Visitor Counter
 
-![Visitor Counter](https://komarev.com/ghpvc/?username=fabiofonteles1&color=green)
+<div align="center">
+<br><p align="center"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/fabiofonteles1/count.svg" /></p> 
+<br>
+</div>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
