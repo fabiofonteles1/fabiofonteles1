@@ -1,4 +1,6 @@
-# Hey there! I'm Fábio <img src="https://media.giphy.com/media/hTgm8X92yC5hK/giphy.gif" width="40px">
+# Hey there! I'm Fábio
+<img src="https://raw.githubusercontent.com/fabiofonteles1/fabiofonteles1/main/jpg/rocket.gif" width="50">
+
 
 
 
