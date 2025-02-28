@@ -21,7 +21,7 @@
 
 ## Jogo da Cobrinha
 
-![Snake animation](https://github.com/fabiofonteles1/fabiofonteles1/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/fabiofonteles1/fabiofonteles1/blob/output/github-contribution-grid-snake.gif)
 
 ## Contador de Visitantes
 
