@@ -1,8 +1,15 @@
-# Hello, I'm Fábio ! 👋
+# Hello, I'm Fábio Araujo! 👋
 
 🎓 Software Engineering student at the University of Brasília  
 💻 Passionate about software development and embedded systems  
 🌐 Brasília, Federal District
+
+## Languages I Use
+
+- ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) 
 
 ## Featured Projects
 
