@@ -12,8 +12,7 @@
 
 ## Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/seu-linkedin)
-[![E-mail](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:seu-email@example.com)
+[![E-mail](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:fabioofonteles1@gmail.com)
 
 ## Estatísticas do GitHub
 
