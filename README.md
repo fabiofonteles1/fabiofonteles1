@@ -28,7 +28,7 @@
 
 ## Snake Game
 
-![snake gif](https://github.com/fabiofonteles1/fabiofonteles1/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/fabiofonteles1/fabiofonteles1/blob/output/github-contribution-grid-snake-dark.svg)
 
 ## Visitor Counter
 
