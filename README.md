@@ -26,10 +26,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fabiofonteles1&show_icons=true&theme=dracula)
 
-## Snake Game
-
-![snake gif](https://github.com/fabiofonteles1/fabiofonteles1/blob/output/github-contribution-grid-snake-dark.svg)
-
 ## Visitor Counter
 
 <div align="center">
